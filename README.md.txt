@@ -82,13 +82,13 @@ Interactive visuals:
 
 ## 📷 Dashboard Preview
 
-### Dashboard 1
-(Add Screenshot Here)
+### Executive Dashboard
 
-### Dashboard 2
-(Add Screenshot Here)
+![Dashboard 1](screenshots/Dashboard1.png)
 
----
+### Interactive Dashboard
+
+![Dashboard 2](screenshots/Dashboard2.png)
 
 ## 📁 Project Structure
 
